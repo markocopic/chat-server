@@ -23,7 +23,7 @@ server.listen(port)
 
 
 
-
+console.log('Starting...');
 
 
 
